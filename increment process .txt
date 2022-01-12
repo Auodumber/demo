@@ -1,0 +1,18 @@
+1.For example : if increment date is 15-03-2017 but LOP is 20 days then in the same year it will be applicable from 04-04-2018 but in the year 2019 it will be applicable from 01-04-2019)
+
+2.how to store different eligiblity list db
+
+3. fpa flag
+
+4. in first time increment list employee incr date 
+
+5. how to check police verification for first time increment
+
+6. what is pan and how to apply it
+
+7. fpa eligibility list rules
+
+8. stagnation elibilty list rules
+
+9. 
+
